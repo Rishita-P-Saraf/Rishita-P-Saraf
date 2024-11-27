@@ -1,33 +1,43 @@
 👋 Hi, I’m Rishita P Saraf!
 
 🌱 About Me:
-🎓 Third-year student pursuing Bachelor in Technology[Btech] at Vellore Institute of Technology, Bhopal.
+
+🎓 I am a third-year student pursuing Bachelor in Technology [Btech] at Vellore Institute of Technology, Bhopal.
 👀 I’m interested in Machine Learning, Data Science, Data Analytics, Data Structures and Algorithms
 💻 Passionate about solving problems with clean, scalable code.
 🤖 Exploring technologies in AI, ML, Deep Learning, and Software Development.
 🌟 Open to internships, collaborations, and contributions to exciting projects!
 
 🛠️ Technical Skills:
-\n
+
 Languages: Python, C++, Java, HTML, CSS and JavaScript
+
 Frameworks & Libraries: Pandas, Numpy, Matplotlib, Scikit-learn
+
 Specialties: Data Structures & Algorithms, API Development, and Machine Learning Models
 
-🚀 Projects
-1. Inventory Management System using File handling 
+🚀 Projects:
+
+1. Inventory Management System using File handling
+   
 2. Inventory Management System using JSON
 
-🛠️ What I'm Working On
-Data Preprocessing with Google Playstore
+🛠️ What I'm Working On:
+
+Data Preprocessing with Google Playstore.
+
 Preparing for Coding Interviews with focus on DSA.
 
-📚 Currently Learning
+📚 Currently Learning:
+
 Machine Learning Algorithms 
-Data Science
+, Data Science, 
 Data Structures and Algorithms
 
-📫 How to reach me 
+📫 How to reach me:
+
 💼 LinkedIn: www.linkedin.com/in/rishita-priyadarshini-saraf
+
 📧 Email: rishitasarafp@gmail.com
 
 ⚡ Fun fact: 
