@@ -1,13 +1,14 @@
-👋 Hi, I’m Rishita P Saraf
+👋 Hi, I’m Rishita P Saraf!
 
-🌱 About Me
+🌱 About Me:
 🎓 Third-year student pursuing Bachelor in Technology[Btech] at Vellore Institute of Technology, Bhopal.
 👀 I’m interested in Machine Learning, Data Science, Data Analytics, Data Structures and Algorithms
 💻 Passionate about solving problems with clean, scalable code.
 🤖 Exploring technologies in AI, ML, Deep Learning, and Software Development.
 🌟 Open to internships, collaborations, and contributions to exciting projects!
 
-🛠️ Technical Skills
+🛠️ Technical Skills:
+\n
 Languages: Python, C++, Java, HTML, CSS and JavaScript
 Frameworks & Libraries: Pandas, Numpy, Matplotlib, Scikit-learn
 Specialties: Data Structures & Algorithms, API Development, and Machine Learning Models
