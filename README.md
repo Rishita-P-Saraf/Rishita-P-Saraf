@@ -12,15 +12,17 @@
 
 Languages: Python, C++, Java, Excel, HTML, CSS and JavaScript
 
-Frameworks & Libraries: Pandas, Numpy, Matplotlib, Scikit-learn
+Frameworks & Libraries: Pandas, Numpy, Matplotlib, PowerBI, Scikit-learn, Seaborn
 
 Specialties: Data Structures & Algorithms, API Development, and Machine Learning Models
 
 ## 🚀 Projects:
 
-1. Inventory Management System using File handling
+1. Heart Disease Exploratory Data Analysis
    
-2. Inventory Management System using JSON
+2. Black Friday Sales Data Analysis
+3. Sugarcane Production Data Analysis
+4. Sales Analysis using PowerBI
 
 ## 🛠️ What I'm Working On:
 
